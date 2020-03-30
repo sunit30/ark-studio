@@ -134,24 +134,24 @@ footer{
 	padding:0;
 	margin:0;
 }
-.footer_widget{
+#footer_widget{
 	width:800px;
 	margin:auto;
 	display:flex;
 }
-.footer_widget #loc{
+#footer_widget #loc{
 	width:25%;
 	padding:10px 10px;
 }
-.footer_widget #comp{
+#footer_widget #comp{
 	width:25%;
 	padding:10px 10px;
 }
-.footer_widget #sup{
+#footer_widget #sup{
 	width:25%;
 	padding:10px 10px;
 }
-.footer_widget #ark{
+#footer_widget #ark{
 	width:25%;
 	padding:10px 10px;
 }
@@ -162,19 +162,19 @@ footer{
 	margin-top:40px;
 	padding-bottom:10px;
 }
-.footer_widget #comp #comp_list {
+#footer_widget #comp #comp_list {
 	list-style-type:none;
 	padding:0;
 }
-.footer_widget #comp #comp_list a {
+#footer_widget #comp #comp_list a {
 	text-decoration:none;
 	color:white;
 }
-.footer_widget #sup #sup_list {
+#footer_widget #sup #sup_list {
 	list-style-type:none;
 	padding:0;
 }
-.footer_widget #sup #sup_list a {
+#footer_widget #sup #sup_list a {
 	text-decoration:none;
 	color:white;
 }
